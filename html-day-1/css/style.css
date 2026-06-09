@@ -1,0 +1,21 @@
+body {
+  background-color:aliceblue;
+}
+
+h1 {
+  color:black;
+}
+
+p {
+  color: darkgreen;
+}
+
+button {
+  background-color:aqua;
+  color:black;
+}
+
+h3 {
+    font-size: 10px;
+    color: black;
+}
